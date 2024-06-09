@@ -12,10 +12,9 @@ as opposed to more generalized, polymath levels of knowledge.
 Lately - as in the last couple of years - I've been branching out a little into the use of peripherals such as Arduino modules
 and utilizing the Raspberry Pi GPIO line/rail to interface with devices. Likewise, I love learning how to write code that allows for the
 actual interfacing and sending/receiving data to and from external devices. I enjoy the process of getting - digitally at least - into the mechanics of 
-what is going on and learning how to interact and utilize the hardware for my own needs.</p> 
+what is going on and learning how to interact with and utilize the hardware for my own needs.</p> 
 <br>
 Strictly in terms of coding, my strongest/preferred areas are Network Communication, Transport Protocols, Memory Interaction and generally low-level stuff.
-<br>
 <br>
 <p>
 Nowadays, my main goto Programming Languages are C and C++. However, over the years - and even today, if necessary - I have dabbled with Python, HTML, some batch coding and bash scripting and C# as well as Xamarin.
